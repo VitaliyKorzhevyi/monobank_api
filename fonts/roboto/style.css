@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Patricia Gothic';
+    src: local('Patricia Gothic Bold'), local('Patricia-Gothic-Bold'),
+        url('PatriciaGothic-Bold.woff2') format('woff2'),
+        url('PatriciaGothic-Bold.woff') format('woff'),
+        url('PatriciaGothic-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }

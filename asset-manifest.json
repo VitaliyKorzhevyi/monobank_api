@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/monobank_api/static/css/main.3f1ce439.css",
-    "main.js": "/monobank_api/static/js/main.918b3376.js",
+    "main.css": "/monobank_api/static/css/main.69d0eedf.css",
+    "main.js": "/monobank_api/static/js/main.55b70151.js",
+    "static/media/my-logo.png": "/monobank_api/static/media/my-logo.f4cfa57257107262d71e.png",
     "index.html": "/monobank_api/index.html",
-    "main.3f1ce439.css.map": "/monobank_api/static/css/main.3f1ce439.css.map",
-    "main.918b3376.js.map": "/monobank_api/static/js/main.918b3376.js.map"
+    "main.69d0eedf.css.map": "/monobank_api/static/css/main.69d0eedf.css.map",
+    "main.55b70151.js.map": "/monobank_api/static/js/main.55b70151.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f1ce439.css",
-    "static/js/main.918b3376.js"
+    "static/css/main.69d0eedf.css",
+    "static/js/main.55b70151.js"
   ]
 }
