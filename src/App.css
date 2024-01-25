@@ -1,0 +1,24 @@
+.app {
+  position: relative;
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 20px 0px;
+  display: flex;
+  color: #fff;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btns-container {
+  display: flex;
+  padding: 20px;
+}
+
+.base-btns-data {
+  padding: 20px;
+  cursor: pointer;
+}
+
+.base-btns-data.active {
+  background-color: #fbe881;
+}
